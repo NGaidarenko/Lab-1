@@ -21,6 +21,8 @@ echo "Welcome to ITMO University"
 name="$@"
 echo "Welcome, $name"
 ```
+Получим:
+![](https://github.com/NGaidarenko/Lab-1/blob/main/lab-1.jpg)
 ## Вывод
 #### Был модифецирован файл `script.bash`, так что бы при вызове этого файла при помощи команды `bash script.bash Vasya Pupkin`, вывод имел вид
 ```
